@@ -1,0 +1,181 @@
+Package: fonts
+Version: 0.8
+Architecture: all
+Maintainer: Reuben Institute <reubeninstitute@gmail.com>
+Filename: ./fonts_0.8_all.deb
+Size: 4993756
+MD5sum: 69dfc48182ed9cb90d68f4f3503e17f0
+SHA1: 16c2ec83688bcca07b25da2279600a052db22958
+SHA256: 85ae920545132a4abedb86a5ccde7027ea086f25e15effe8bf3c0a2daa2942a6
+Section: fonts
+Priority: optional
+Description: Fonts used by Reuben Institute projects
+ Third-party and custom fonts used by Reuben Institute projects,
+ installed to /usr/share/fonts/reubeninstitute.
+
+Package: python3-astro
+Version: 1.7
+Architecture: all
+Maintainer: Reuben Institute <reubeninstitute@gmail.com>
+Depends: python3, python3-date
+Filename: ./python3-astro_1.7_all.deb
+Size: 6846
+MD5sum: c544eaa13bd77b47ec1d147bdfea3d5f
+SHA1: 7f4a3a478d669ff51b6cf3dcc146f2c8d46e26c1
+SHA256: 0fd7ad3747a70330b87bfa123163cea4e9051168cf46fbdb56e31dc03772fa17
+Section: python
+Priority: optional
+Description: Astronomy utilities
+ Astronomy utilities from Reuben Institute — celestial location,
+ sun/moon position calculations, and geo coordinates.
+
+Package: python3-date
+Version: 0.7
+Architecture: all
+Maintainer: Reuben Institute <reubeninstitute@gmail.com>
+Depends: python3
+Filename: ./python3-date_0.7_all.deb
+Size: 3032
+MD5sum: 3f7d7cb0775849d22a2ca0481257cb95
+SHA1: c673dc7d019efea80d3c7dc432c7d8dc0a457fec
+SHA256: bb0c8a4ea20dbcdba69399dcfeee1b5b5fc8212d42c06d9a3f9db690d58d2d39
+Section: python
+Priority: optional
+Description: Gregorian date/time utilities
+ Gregorian date/time utilities (Date, Time, DateTime) from Reuben
+ Institute, for Gregorian calendar and Julian day calculations.
+
+Package: python3-hebrew
+Version: 1.11
+Architecture: all
+Maintainer: Reuben Institute <reubeninstitute@gmail.com>
+Depends: python3, python3-regex
+Filename: ./python3-hebrew_1.11_all.deb
+Size: 5306
+MD5sum: c5a2ed37a46f6e57238d358dea778b1a
+SHA1: 7d0e8af9e378fae4eaaa244958499c0000e0c33f
+SHA256: d7cd203c5c74cd2f832e85046c6b60a3923d6bf5cec09ff4f4a4cfd63287f882
+Section: python
+Priority: optional
+Description: Hebrew text and numeral utilities
+ Hebrew text and numeral utilities from Reuben Institute — letter
+ constants, transliteration helpers, and Hebrew numeral (gematria)
+ conversion.
+
+Package: python3-hebrewdate
+Version: 3.7
+Architecture: all
+Maintainer: Reuben Institute <reubeninstitute@gmail.com>
+Depends: python3, python3-date
+Filename: ./python3-hebrewdate_3.7_all.deb
+Size: 9170
+MD5sum: 5e404363b90d42e154a9d8065ab1f15a
+SHA1: ee9e712f78eaaf854ddd048adf999c6625288011
+SHA256: 4eac813e7da8b3095df04123b33bed535c424b8078d5970f8b2f2eb295907969
+Section: python
+Priority: optional
+Description: Hebrew calendar utilities
+ Hebrew calendar utilities from Reuben Institute — dates, holidays,
+ and Torah reading schedule.
+
+Package: python3-hebrewyemama
+Version: 0.7
+Architecture: all
+Maintainer: Reuben Institute <reubeninstitute@gmail.com>
+Depends: python3, python3-date, python3-astro, python3-hebrewdate, python3-pil
+Filename: ./python3-hebrewyemama_0.7_all.deb
+Size: 11864
+MD5sum: 031a6b3395f6757e817c77bd74f1b0f4
+SHA1: 1b571aa6a511e402e12c3306f3e798c265b16b36
+SHA256: 158db3407887bc8ce13acf6ee4dc88d03ac9c8ed418445914858f1962169949a
+Section: python
+Priority: optional
+Description: Halakhic day-division times and clock rendering
+ Halakhic day-division times (yemama), clock rendering, and custom
+ day-definitions, from Reuben Institute.
+
+Package: python3-scriptures
+Version: 0.25
+Architecture: all
+Maintainer: Reuben Institute <reubeninstitute@gmail.com>
+Depends: python3, python3-pandas, python3-hebrew, scriptures-data
+Filename: ./python3-scriptures_0.25_all.deb
+Size: 5088
+MD5sum: a0d16e4d97725073731078d43b83734a
+SHA1: 62fb4c3918f02d0715d1e107fd2c97fc32e1e2b7
+SHA256: 00f194d167b48eb9a8830e8cef1133d8f6891b68b3deab8177db9e814262a11c
+Section: python
+Priority: optional
+Description: Hebrew scripture text classes (Bible, Mishnah, Talmud, Zohar)
+ Provides Scriptures, Bible, Mishnah, TalmudBavli, TalmudYerushalmi,
+ Zohar, ZoharChadash and ZoharTikkunim classes for Reuben Institute's
+ Hebrew text corpus, with a bundled web viewer available separately.
+
+Package: python3-styledscriptures
+Version: 0.12
+Architecture: all
+Maintainer: Reuben Institute <reubeninstitute@gmail.com>
+Depends: python3, python3-hebrew, python3-pandas
+Filename: ./python3-styledscriptures_0.12_all.deb
+Size: 6054
+MD5sum: 2b24acc49a9e78814d2a3e5a1c107164
+SHA1: 39fe5bc757a0b03c45a4a5a89ad1a9a77c015807
+SHA256: b6f0e64df29a037592112b67605bd18634a2cf1d4220ac9b61d01e07484583cd
+Section: python
+Priority: optional
+Description: Classes for Reuben Institute's Psalms and Parashot text
+ Text, Psalms, and Parashot classes that present Reuben Institute's
+ own typesetting of the Psalms (as poetry) and Parashot (as narrative
+ prose), with print-quality typography (curly single/double quotes,
+ proper punctuation) — the same text across print, web app, and
+ social media video.
+
+Package: scriptures-data
+Version: 0.25
+Architecture: all
+Maintainer: Reuben Institute <reubeninstitute@gmail.com>
+Depends: python3
+Filename: ./scriptures-data_0.25_all.deb
+Size: 8206476
+MD5sum: 92c576e5dddeca0315b6ffcdbbe1bb35
+SHA1: 8c192e29c0e8e5b1276e42d51df610fb21961088
+SHA256: 85ddaf17436c8c8ed23c85ffa3e1b7a11e8c88183c3c356a11ade8d5cda454e9
+Section: python
+Priority: optional
+Description: Hebrew scripture text data (Bible, Mishnah, Talmud, Zohar)
+ Provides the JSON text database for Reuben Institute's Hebrew text
+ corpus, sourced from Sefaria (https://sefaria.org).
+
+Package: scriptures-web
+Version: 0.25
+Architecture: all
+Maintainer: Reuben Institute <reubeninstitute@gmail.com>
+Depends: python3, python3-flask, python3-scriptures, fonts
+Filename: ./scriptures-web_0.25_all.deb
+Size: 2836
+MD5sum: 5eee0fcc8a66e69c7954f7a0df776c92
+SHA1: 6020511fb59ad4a2198b01511fc17507fce8c613
+SHA256: edef8e85fe551e21fb969abc27cf4e5c113e1e29e131f95478eaa5e347898188
+Section: python
+Priority: optional
+Description: Web viewer for Reuben Institute's scripture corpus
+ Flask app serving the Hebrew scripture texts in the browser.
+
+Package: styledscriptures-data
+Version: 0.12
+Architecture: all
+Maintainer: Reuben Institute <reubeninstitute@gmail.com>
+Depends: python3
+Filename: ./styledscriptures-data_0.12_all.deb
+Size: 362714
+MD5sum: 937c2e413e81505af93d59991c3019aa
+SHA1: 36316c3c833ab842ad7f805b7bfa6d5a3e02ca52
+SHA256: ad0127795aa9fda5f5fdd602e557173f5ab609599e3e025dc7338c538b1d968e
+Section: python
+Priority: optional
+Description: Reuben Institute's Psalms and Parashot text
+ Markdown text and CSV metadata for Reuben Institute's own
+ typesetting of the Psalms (as poetry) and Parashot (as narrative
+ prose) — the text behind the print booklets, web app, and video
+ series.
+
