@@ -157,6 +157,992 @@ SHA512: 9ac7c5d828277132a432c7d730e25ea4b58b7c38f87314071b0c2cdcc125091653f1b2f1
 Description: Web viewer for Reuben Institute's scripture corpus
  Flask app serving the Hebrew scripture texts in the browser.
 
+Package: scripturesstudio-assets-001
+Architecture: all
+Version: 1.0
+Priority: optional
+Section: misc
+Source: scripturesstudio-assets
+Maintainer: Reuben Institute <reubeninstitute@gmail.com>
+Installed-Size: 3598
+Filename: ./scripturesstudio-assets-001_1.0_all.deb
+Size: 3681894
+MD5sum: 4e698f04bd7529d66de7856c6a973ffa
+SHA1: 179cb4ff15ea84fbdc1ea158bc4241f80ada7bbf
+SHA256: b9e36315886d7e1802346d1217a6416bf48ac5b08b6a13c047824468c00b773a
+SHA512: adc19bf81db83686da14024b92fb4615c07be29da7679cc4b1e2ffb0be6afbb08caa8c36216a06d42687428d9d31ed718a7f36c19545ef9b6f14f16158d2a976
+Description: Psalms video assets for psalm 001 (jpg/mp3/mp4)
+ Cover image, music track, and/or background video used by
+ ScripturesStudio to produce psalm 001's video.
+
+Package: scripturesstudio-assets-002
+Architecture: all
+Version: 1.0
+Priority: optional
+Section: misc
+Source: scripturesstudio-assets
+Maintainer: Reuben Institute <reubeninstitute@gmail.com>
+Installed-Size: 4807
+Filename: ./scripturesstudio-assets-002_1.0_all.deb
+Size: 4918334
+MD5sum: 2f6f6ef0f3247bd5d62970d7474b242c
+SHA1: b546265d138e7a93f46cd5688490d4d2f77430fb
+SHA256: de4d785e39fc2ad2c8b3a1a00d73c83bc859ab0fbf8a1a68e38dd009e7b4d6a7
+SHA512: c59caf79868068f931b51cb2ce5004fbeb5fa3a180b9083b17e189b732386f71f689fa8fa86b7ac4dea63b8b06916a9449805415bae2c53983292e3ed2dd9ad9
+Description: Psalms video assets for psalm 002 (mp3)
+ Cover image, music track, and/or background video used by
+ ScripturesStudio to produce psalm 002's video.
+
+Package: scripturesstudio-assets-003
+Architecture: all
+Version: 1.0
+Priority: optional
+Section: misc
+Source: scripturesstudio-assets
+Maintainer: Reuben Institute <reubeninstitute@gmail.com>
+Installed-Size: 4268
+Filename: ./scripturesstudio-assets-003_1.0_all.deb
+Size: 4367456
+MD5sum: 5a7ce614537a6d704c89d415bcc5c980
+SHA1: 97735467a5ec2864d1e5dfe9dc851d38d59396c3
+SHA256: e0e1638dd3a91b9f1f654e60789276fe54340b327ca0ce63e1267eada45bf6b8
+SHA512: 750aae1e710e6972a276a25e528398d3fe534838ffcf28c25398c9fba90097c04f8fbb7611a2272e09d8c088e85b9129d8dbf6a3def16a677136400a50637622
+Description: Psalms video assets for psalm 003 (mp3)
+ Cover image, music track, and/or background video used by
+ ScripturesStudio to produce psalm 003's video.
+
+Package: scripturesstudio-assets-004
+Architecture: all
+Version: 1.0
+Priority: optional
+Section: misc
+Source: scripturesstudio-assets
+Maintainer: Reuben Institute <reubeninstitute@gmail.com>
+Installed-Size: 4466
+Filename: ./scripturesstudio-assets-004_1.0_all.deb
+Size: 4570220
+MD5sum: c4ba03a64e295dbc2e58eb987867e004
+SHA1: af194b16e45230b3640c368966c9216ec08a6247
+SHA256: 7b9b9b90e8e136df41879102fe75aeb543d1f4f5ae0a5b7383d9bf1f4395a4a7
+SHA512: e30ae1546037c85cfa4206dd912ac6232381eb666d3650c41e345412b875dcf6f7e57415ecca1778522cde0c78641799dbd54987d9461902ac23f1644c7cb6fc
+Description: Psalms video assets for psalm 004 (mp3)
+ Cover image, music track, and/or background video used by
+ ScripturesStudio to produce psalm 004's video.
+
+Package: scripturesstudio-assets-005
+Architecture: all
+Version: 1.0
+Priority: optional
+Section: misc
+Source: scripturesstudio-assets
+Maintainer: Reuben Institute <reubeninstitute@gmail.com>
+Installed-Size: 3902
+Filename: ./scripturesstudio-assets-005_1.0_all.deb
+Size: 3994006
+MD5sum: 4e3f727e26a0919a4d211735d8115290
+SHA1: 02290a224963c882a4e429dbd38da4b3e5eb5064
+SHA256: 0db4a4a656c07b2b3fc86e70f8b0d90a87abca2dadf000d0005dc128fb88c640
+SHA512: 9e5ba07198525b3de459fdc86e0e626554143ce096e2f64af11754f9cd2db44456d6a439ab366c9dcdfa3585fa4a8c18cd2dce64d8e974c0db2326efb30c81c8
+Description: Psalms video assets for psalm 005 (mp3)
+ Cover image, music track, and/or background video used by
+ ScripturesStudio to produce psalm 005's video.
+
+Package: scripturesstudio-assets-006
+Architecture: all
+Version: 1.0
+Priority: optional
+Section: misc
+Source: scripturesstudio-assets
+Maintainer: Reuben Institute <reubeninstitute@gmail.com>
+Installed-Size: 3878
+Filename: ./scripturesstudio-assets-006_1.0_all.deb
+Size: 3969306
+MD5sum: 6b7fa10fed6001c592ffce438378417b
+SHA1: 78b291f94187bc0e9e75c2e2894b8d3c993edc90
+SHA256: 3e2b07eab85bbf64219bf1728d0943b0375e55df1467d148dfde3c927b02e22c
+SHA512: a96bf8e7976ad0124b18bcae5c384e5e294ea46878508918a52a560cc0f4c19298ebcd6330b7dfc1bc00f4b18805d6217aca6f04ae62e201deed71b405db2120
+Description: Psalms video assets for psalm 006 (mp3)
+ Cover image, music track, and/or background video used by
+ ScripturesStudio to produce psalm 006's video.
+
+Package: scripturesstudio-assets-007
+Architecture: all
+Version: 1.0
+Priority: optional
+Section: misc
+Source: scripturesstudio-assets
+Maintainer: Reuben Institute <reubeninstitute@gmail.com>
+Installed-Size: 4165
+Filename: ./scripturesstudio-assets-007_1.0_all.deb
+Size: 4265290
+MD5sum: e0d6dd932c58066dc7dc0504d55bf8c4
+SHA1: df28ecc26f696aec4a02996ee5f03e465d891996
+SHA256: 305ae789954d1317024eefa2c72b613719537889c7757be32bd712f12d2c332e
+SHA512: dd0f73bd4f3fe597a78793d0707c8f09013c40e12a3112a4cf3f5cd5da285523f3e13b5c264bfc05497e79da20f96d6d7d975d0eb6a11aa557b8d618a244be0a
+Description: Psalms video assets for psalm 007 (mp3)
+ Cover image, music track, and/or background video used by
+ ScripturesStudio to produce psalm 007's video.
+
+Package: scripturesstudio-assets-008
+Architecture: all
+Version: 1.0
+Priority: optional
+Section: misc
+Source: scripturesstudio-assets
+Maintainer: Reuben Institute <reubeninstitute@gmail.com>
+Installed-Size: 9244
+Filename: ./scripturesstudio-assets-008_1.0_all.deb
+Size: 9450034
+MD5sum: a7225bfbf795b2ab633d05a76055d27a
+SHA1: 93931a9fa5cb3dc56edfb9c6156bb30479c341e3
+SHA256: b95b0c3dbac546a894158d7b43fcb6b6a4b329eab6a0887908cb4458efb960e2
+SHA512: 1416ad91e60407b1eced23811ab992d1559461e6512d0758483067ac1c5a86e4b89d67e5ba1a32bc266857ff3f40b2689dc3f2e8018c69d114eaeb7ecaa7b9c5
+Description: Psalms video assets for psalm 008 (jpg/mp3/mp4)
+ Cover image, music track, and/or background video used by
+ ScripturesStudio to produce psalm 008's video.
+
+Package: scripturesstudio-assets-010
+Architecture: all
+Version: 1.0
+Priority: optional
+Section: misc
+Source: scripturesstudio-assets
+Maintainer: Reuben Institute <reubeninstitute@gmail.com>
+Installed-Size: 4844
+Filename: ./scripturesstudio-assets-010_1.0_all.deb
+Size: 4955008
+MD5sum: 9a9af37346bef733328f6e6c97eca41f
+SHA1: 58bf1977d0c88d0e4e2ab3c8e632b70d3eb57ea2
+SHA256: c122912c69eff7fd2b13d93fecf45c2c52d0c112c432b23a31b88593e8d858e5
+SHA512: 799b11b74c84435e6ece6cb2ab2945eb394022010f045b114ba79fb6db93123f341a646c2023caf330a5bb882fcc857c54d3f083874ad4458655b39407fce223
+Description: Psalms video assets for psalm 010 (mp3)
+ Cover image, music track, and/or background video used by
+ ScripturesStudio to produce psalm 010's video.
+
+Package: scripturesstudio-assets-016
+Architecture: all
+Version: 1.0
+Priority: optional
+Section: misc
+Source: scripturesstudio-assets
+Maintainer: Reuben Institute <reubeninstitute@gmail.com>
+Installed-Size: 3471
+Filename: ./scripturesstudio-assets-016_1.0_all.deb
+Size: 3551984
+MD5sum: a51f117acaf7b9e2652bfb062a1b489a
+SHA1: 8361edc79776604a857c4866e7aa7c62d0314b35
+SHA256: e4368dec30422bd1f8a764ecf72e600e6c676c7a1e26a523c1a3e5ed46ea2a02
+SHA512: 30c3ff8661ea4660b3edfae59274f1fdbad0c08ac79653eddc41a2ea4c37af63adb5087cabf7f50c6f34d9b6536be3a39757da0f4466310730683c626a0d6dd4
+Description: Psalms video assets for psalm 016 (mp3)
+ Cover image, music track, and/or background video used by
+ ScripturesStudio to produce psalm 016's video.
+
+Package: scripturesstudio-assets-032
+Architecture: all
+Version: 1.0
+Priority: optional
+Section: misc
+Source: scripturesstudio-assets
+Maintainer: Reuben Institute <reubeninstitute@gmail.com>
+Installed-Size: 5196
+Filename: ./scripturesstudio-assets-032_1.0_all.deb
+Size: 5314438
+MD5sum: 571f9de9a822da52b5dd17537a2bccb2
+SHA1: d6bf6eddfc109e788f3295cf959b2aed2ab782eb
+SHA256: a3213e76d7ef1801f1aa36e265f8707f2fea997456963b7ad308f49c21a0ba1c
+SHA512: fdb09c2e0b4e83b533682d635b51d3090d7f354f6d4cf7ecac48c501e7fc2339e197a2f99b8a0044ba3e85e5f334ecc18af76ef05a384062986ccb5b9e1e12f4
+Description: Psalms video assets for psalm 032 (jpg/mp3/mp4)
+ Cover image, music track, and/or background video used by
+ ScripturesStudio to produce psalm 032's video.
+
+Package: scripturesstudio-assets-035
+Architecture: all
+Version: 1.0
+Priority: optional
+Section: misc
+Source: scripturesstudio-assets
+Maintainer: Reuben Institute <reubeninstitute@gmail.com>
+Installed-Size: 8155
+Filename: ./scripturesstudio-assets-035_1.0_all.deb
+Size: 8342438
+MD5sum: 16a47a306c52c3a7cd458ef3a7b5fcde
+SHA1: dc073f174103c4a3d4982990a7f456e35a72998e
+SHA256: 72cef96fe9bc5ef9596844a445159bc7d317d7a799a4da5120358c6e36d41a01
+SHA512: cd79f5fb6edfd60591af5ff5f99795d2256c17aaa867facb9ef13549bcc4eae00755f6b4fb377b92b460089f7b67825c39d0ad985adc6c4982a9afbd7eb8e6ed
+Description: Psalms video assets for psalm 035 (jpg/mp3/mp4)
+ Cover image, music track, and/or background video used by
+ ScripturesStudio to produce psalm 035's video.
+
+Package: scripturesstudio-assets-041
+Architecture: all
+Version: 1.0
+Priority: optional
+Section: misc
+Source: scripturesstudio-assets
+Maintainer: Reuben Institute <reubeninstitute@gmail.com>
+Installed-Size: 5647
+Filename: ./scripturesstudio-assets-041_1.0_all.deb
+Size: 5777604
+MD5sum: d2341dce7f95002134fb96834a498df0
+SHA1: aa24a67ebb0f042ef41e60304534853c48bf9005
+SHA256: ca0613c3b46267f55231a8660f9807a14dc52eea638941363082fc19c1c3faff
+SHA512: 6d8ef5eac3cf7e00c65469dba71b2181d022331de4c757e51c03842bac0e3239fa07b2bd8069e8c9cf6f090ebfc2c33407bfbb6de9ff5626ee5f6e8dd25f643d
+Description: Psalms video assets for psalm 041 (jpg/mp3/mp4)
+ Cover image, music track, and/or background video used by
+ ScripturesStudio to produce psalm 041's video.
+
+Package: scripturesstudio-assets-042
+Architecture: all
+Version: 1.0
+Priority: optional
+Section: misc
+Source: scripturesstudio-assets
+Maintainer: Reuben Institute <reubeninstitute@gmail.com>
+Installed-Size: 4192
+Filename: ./scripturesstudio-assets-042_1.0_all.deb
+Size: 4282146
+MD5sum: 97eae814ce7cf7362a398de407443bff
+SHA1: eebda61dec88950e282321fae41a4d51b5dbe756
+SHA256: e6d765624766ee9dcd0fa917b88ab58a1a5b712b36de4ca4819c441e54e25de1
+SHA512: f481816a77f2ff81dd8ad13a6a6a0b34d9ebb763ed2e23b5cadf1d1ace967ce1566c2e9913199a1e63a673c893df2b706ed4bec2112dce73f2da4357d3ed7be2
+Description: Psalms video assets for psalm 042 (mp3)
+ Cover image, music track, and/or background video used by
+ ScripturesStudio to produce psalm 042's video.
+
+Package: scripturesstudio-assets-044
+Architecture: all
+Version: 1.0
+Priority: optional
+Section: misc
+Source: scripturesstudio-assets
+Maintainer: Reuben Institute <reubeninstitute@gmail.com>
+Installed-Size: 7979
+Filename: ./scripturesstudio-assets-044_1.0_all.deb
+Size: 8169036
+MD5sum: b70607c4ad8040221a3736e24f540cf8
+SHA1: 90866ea8b9b37ea0f14404c845f4a91e2dab9cb9
+SHA256: 5f74bb0315377e03e119418d16b10662b685adb28e4e55bf7ca504f31ccc540f
+SHA512: c40f0367d72e023e374c4dce97e7e92ab7a420e7afbb9887eb5e0012310c4e798b4f4cabb23cc3f8f458e68b9c110af9f0304946b45aacd0a37ffe268016adc4
+Description: Psalms video assets for psalm 044 (jpg/mp3/mp4)
+ Cover image, music track, and/or background video used by
+ ScripturesStudio to produce psalm 044's video.
+
+Package: scripturesstudio-assets-046
+Architecture: all
+Version: 1.0
+Priority: optional
+Section: misc
+Source: scripturesstudio-assets
+Maintainer: Reuben Institute <reubeninstitute@gmail.com>
+Installed-Size: 4473
+Filename: ./scripturesstudio-assets-046_1.0_all.deb
+Size: 4577412
+MD5sum: 0f8003a842f6fb044ac8ae4085e93ea7
+SHA1: 5d42e49b49c3431f203cd9345e6024e65ef2deb3
+SHA256: 77db398993199715654cda0c2cc9ec006319978ad8abfab27ed7fc1da1fa194a
+SHA512: 1b21d0f6d9d1ec6434c874ea4cb64d84fe1fe7918296a26544d5d808ee4b2d8f0c5c35a09a9780a755477a46ae8c45cb0360145d0ead16c21d1cb0276c71cd5a
+Description: Psalms video assets for psalm 046 (jpg/mp3/mp4)
+ Cover image, music track, and/or background video used by
+ ScripturesStudio to produce psalm 046's video.
+
+Package: scripturesstudio-assets-047
+Architecture: all
+Version: 1.0
+Priority: optional
+Section: misc
+Source: scripturesstudio-assets
+Maintainer: Reuben Institute <reubeninstitute@gmail.com>
+Installed-Size: 6707
+Filename: ./scripturesstudio-assets-047_1.0_all.deb
+Size: 6865430
+MD5sum: 8ccfc04dbbadaf8cc7892debd1a95a0a
+SHA1: 99c2357d00ec0160bfe2b0dfb8b7791035d5c62e
+SHA256: 7eaae543a8d14f884063d28ccaea7c387029c175233718f1ea8adafce4654893
+SHA512: ff95a01dcc4d03bbc33f74563a687ef0cdbdc45efdf6bbd9f5992b7eb52e6cfb508bce928cb769e633d5402b582c05d3e21c827d4d1ed103f9a16d8c93b202ea
+Description: Psalms video assets for psalm 047 (jpg/mp3/mp4)
+ Cover image, music track, and/or background video used by
+ ScripturesStudio to produce psalm 047's video.
+
+Package: scripturesstudio-assets-048
+Architecture: all
+Version: 1.0
+Priority: optional
+Section: misc
+Source: scripturesstudio-assets
+Maintainer: Reuben Institute <reubeninstitute@gmail.com>
+Installed-Size: 4452
+Filename: ./scripturesstudio-assets-048_1.0_all.deb
+Size: 4545832
+MD5sum: c871b1bf8162317343680b468122c85a
+SHA1: 4d895b60963ccfa1ec1dc3136ed1c297f40514ed
+SHA256: dd97033d3c12f0139d8ebedfd40d090ab5190a0253169d47953bfc675014861a
+SHA512: 9216db01f098665d36db965d59d6d36d3f9769e264c3a239b61f8502bdc4a13b87442a6cce71776aedb879ad47957b83bfc794c4780b5aed568035b1409dbcc0
+Description: Psalms video assets for psalm 048 (jpg/mp3/mp4)
+ Cover image, music track, and/or background video used by
+ ScripturesStudio to produce psalm 048's video.
+
+Package: scripturesstudio-assets-050
+Architecture: all
+Version: 1.0
+Priority: optional
+Section: misc
+Source: scripturesstudio-assets
+Maintainer: Reuben Institute <reubeninstitute@gmail.com>
+Installed-Size: 5048
+Filename: ./scripturesstudio-assets-050_1.0_all.deb
+Size: 5163848
+MD5sum: 42c318f20e7bb60458b4490380a690cd
+SHA1: d855242d171cb683a082c9774bfa34adc1f68791
+SHA256: 63cd309e780fe010c5706e3cf767d464695dad51614a4530b7c3fd65f7dda23b
+SHA512: ec727ae6d35a1cc8f639d5d73dc3eb25c351c0a2c068dc08b24f65323fbe30607750707c8dacba2a22c7e2d85cd6048d58ff1cd1e1dcf7cad3aed761bf48b3cd
+Description: Psalms video assets for psalm 050 (jpg/mp3/mp4)
+ Cover image, music track, and/or background video used by
+ ScripturesStudio to produce psalm 050's video.
+
+Package: scripturesstudio-assets-051
+Architecture: all
+Version: 1.0
+Priority: optional
+Section: misc
+Source: scripturesstudio-assets
+Maintainer: Reuben Institute <reubeninstitute@gmail.com>
+Installed-Size: 6660
+Filename: ./scripturesstudio-assets-051_1.0_all.deb
+Size: 6812810
+MD5sum: 4b2df701bc3ba8b0a14e415119c652ea
+SHA1: 5edbb2145974d8c7d0ef80dd28e0eaf1ecf97c05
+SHA256: c234e49415a6a957ed053823e49b176c94288184b2c0f9cbdccf3a662c6fea7b
+SHA512: 2fdab1a5474937747d19482049f525e49b33d6cb0f28b9c43c18d027e68c9a8d5d28898c8a9b59659512082d66a81fbbbc0f531a58eb9576929cc08b6e55e266
+Description: Psalms video assets for psalm 051 (jpg/mp3/mp4)
+ Cover image, music track, and/or background video used by
+ ScripturesStudio to produce psalm 051's video.
+
+Package: scripturesstudio-assets-052
+Architecture: all
+Version: 1.0
+Priority: optional
+Section: misc
+Source: scripturesstudio-assets
+Maintainer: Reuben Institute <reubeninstitute@gmail.com>
+Installed-Size: 8530
+Filename: ./scripturesstudio-assets-052_1.0_all.deb
+Size: 8725636
+MD5sum: 5546cdc8985a940bcc143ac5ca4d61ea
+SHA1: eee865ac90bbdecb796c192235f733c2eaea46d3
+SHA256: 594d9309c093d5fa9f57fa881169eee0876cf41d679b5e34cd5e77dfa244afd4
+SHA512: 18c6dbc5abf3a702f2a26691d39013ad8ff0798f79f32925d81b83234fd69b45badaf28550fd1d14ef6b816ebab2dab0351b57a02f1d353b90cd5f6451b63ba9
+Description: Psalms video assets for psalm 052 (jpg/mp3/mp4)
+ Cover image, music track, and/or background video used by
+ ScripturesStudio to produce psalm 052's video.
+
+Package: scripturesstudio-assets-053
+Architecture: all
+Version: 1.0
+Priority: optional
+Section: misc
+Source: scripturesstudio-assets
+Maintainer: Reuben Institute <reubeninstitute@gmail.com>
+Installed-Size: 7546
+Filename: ./scripturesstudio-assets-053_1.0_all.deb
+Size: 7723018
+MD5sum: 217b9c8665618d4187a64b7f81034bcf
+SHA1: 556d93709805e9655a57d9d8dddbdb1111c240d3
+SHA256: 16f20ae48d01e280aeec01dc8ed6516f06113157a7092c5afce70654cdaa602f
+SHA512: 4fcbfe20f67f6483b0bddaef10069028b80faaf6c79ada6a3a5fbfd5177aa5de763370f1992e81e7807064f5a11119d113971bcf454face6df7790a0ab1b9a16
+Description: Psalms video assets for psalm 053 (jpg/mp3/mp4)
+ Cover image, music track, and/or background video used by
+ ScripturesStudio to produce psalm 053's video.
+
+Package: scripturesstudio-assets-054
+Architecture: all
+Version: 1.0
+Priority: optional
+Section: misc
+Source: scripturesstudio-assets
+Maintainer: Reuben Institute <reubeninstitute@gmail.com>
+Installed-Size: 9825
+Filename: ./scripturesstudio-assets-054_1.0_all.deb
+Size: 10054286
+MD5sum: e6b7600bd75afba9e9909c69c7e3cfe4
+SHA1: 35914deaae9a48e87faffa37fd3bce259a9c6396
+SHA256: e4bfc1b0c5abfee538557d845da6f23ac0247dd1890f827017122893bfc3e95f
+SHA512: 6559b930710253474386afd22dcff840bb7e758810650585aa8cc093a67211e365efb5469cc63990d15171529f615ba9ff8f296921037de1e0e63a8ce9dfac60
+Description: Psalms video assets for psalm 054 (jpg/mp3/mp4)
+ Cover image, music track, and/or background video used by
+ ScripturesStudio to produce psalm 054's video.
+
+Package: scripturesstudio-assets-056
+Architecture: all
+Version: 1.0
+Priority: optional
+Section: misc
+Source: scripturesstudio-assets
+Maintainer: Reuben Institute <reubeninstitute@gmail.com>
+Installed-Size: 17261
+Filename: ./scripturesstudio-assets-056_1.0_all.deb
+Size: 17648274
+MD5sum: b5dba8793187b09b330cbcc957011368
+SHA1: 0520fe4463f3de2cfc2f44de9c5a50e67e780dbf
+SHA256: 1bd182170098f9ae21284306534c2a463ee48a855a62f8f47ad86ca26f3dd42b
+SHA512: e19b13434db284ee9f48913d1c4ee06a95461016fd880fe951fd958e8bcd95aed5ce18ae7451c4aabd2f209639997f30c94f7532ba1873aaad5cf8b784662e93
+Description: Psalms video assets for psalm 056 (jpg/mp3/mp4)
+ Cover image, music track, and/or background video used by
+ ScripturesStudio to produce psalm 056's video.
+
+Package: scripturesstudio-assets-059
+Architecture: all
+Version: 1.0
+Priority: optional
+Section: misc
+Source: scripturesstudio-assets
+Maintainer: Reuben Institute <reubeninstitute@gmail.com>
+Installed-Size: 8911
+Filename: ./scripturesstudio-assets-059_1.0_all.deb
+Size: 9116794
+MD5sum: 0bd6f60b982c394ae3caa4fc4a9879b2
+SHA1: 89543074c94443cba68233f7f1b7da7cd9aa325a
+SHA256: 854069a4c9915ced5c110c1e7186000dc1de81a8abe45310f668782a52f1e0fd
+SHA512: fc8d89deacf40c5e6339a5ee57e27f3efb1222464b324ba7ecbdd447d15ac6faf0412f9f3edaddf31f213e927fa013844a3e2a4c650027b72fe860e0c1bc0206
+Description: Psalms video assets for psalm 059 (jpg/mp3/mp4)
+ Cover image, music track, and/or background video used by
+ ScripturesStudio to produce psalm 059's video.
+
+Package: scripturesstudio-assets-060
+Architecture: all
+Version: 1.0
+Priority: optional
+Section: misc
+Source: scripturesstudio-assets
+Maintainer: Reuben Institute <reubeninstitute@gmail.com>
+Installed-Size: 21697
+Filename: ./scripturesstudio-assets-060_1.0_all.deb
+Size: 22194596
+MD5sum: 412e8047c44834547f0a44e1e5af7bd8
+SHA1: 4cc88bd83fd8910ed3847b908a1c722f141d4e6a
+SHA256: eaac2013513ceb5c06150c74fb1f2f6a6338c8a65a16e79ebb7c9804f6b188fc
+SHA512: b3197a75387c036d32341ba2af8bdc9d62139600ecdf448701daa37ab2b37f3d983fc06e47b2d0a171ccdf3bd20f514d5daeb60cb3aa62077b25d7983d01b945
+Description: Psalms video assets for psalm 060 (jpg/mp3/mp4)
+ Cover image, music track, and/or background video used by
+ ScripturesStudio to produce psalm 060's video.
+
+Package: scripturesstudio-assets-061
+Architecture: all
+Version: 1.0
+Priority: optional
+Section: misc
+Source: scripturesstudio-assets
+Maintainer: Reuben Institute <reubeninstitute@gmail.com>
+Installed-Size: 11819
+Filename: ./scripturesstudio-assets-061_1.0_all.deb
+Size: 12089826
+MD5sum: 82bd98a1861dee42001aa87ffe46e131
+SHA1: b78d7349a0cc45c46d991cd15008dcb6a2f852a4
+SHA256: 62f93d59613b20e84e02ff49ddb0015ae0026278d14a8e0e0bfd20ebeecd1ce5
+SHA512: 36166985bf0c7bbcd22172e859ba68fb4bf0bc42c00e2d6f393df6e191b724777f20d8caea79a32528c9db663aa5899fb1020cc9a37c9f9b3be9a9b51ec5a7b0
+Description: Psalms video assets for psalm 061 (jpg/mp3/mp4)
+ Cover image, music track, and/or background video used by
+ ScripturesStudio to produce psalm 061's video.
+
+Package: scripturesstudio-assets-062
+Architecture: all
+Version: 1.0
+Priority: optional
+Section: misc
+Source: scripturesstudio-assets
+Maintainer: Reuben Institute <reubeninstitute@gmail.com>
+Installed-Size: 4382
+Filename: ./scripturesstudio-assets-062_1.0_all.deb
+Size: 4478582
+MD5sum: 668fb3fd0669121605de83250234e4c3
+SHA1: 4f8aa1427c450d2350c11c1843f951cf1a1cfebc
+SHA256: 6b8a2ba35dc1fec2c18afc48509aa898df4a586518c95f9c57ce69cef5fb5969
+SHA512: 2f5c69fa9f2c20402f9c3d6d76e655f622132ac87cd0e2aea93b9e63194e7c1e8705c399f8c2f9300ad81d449d5277a3e32d8bb1660c2440a7095f0d024d2402
+Description: Psalms video assets for psalm 062 (mp3)
+ Cover image, music track, and/or background video used by
+ ScripturesStudio to produce psalm 062's video.
+
+Package: scripturesstudio-assets-066
+Architecture: all
+Version: 1.0
+Priority: optional
+Section: misc
+Source: scripturesstudio-assets
+Maintainer: Reuben Institute <reubeninstitute@gmail.com>
+Installed-Size: 30461
+Filename: ./scripturesstudio-assets-066_1.0_all.deb
+Size: 31157572
+MD5sum: 856a412285477240696bd9e7e631fa67
+SHA1: e5137d91c611c8ed10646470801b9d19a3e7f77f
+SHA256: 95b17bc439bc7b1d6cb76535082af6b88f7176e30fc15b7b0f691a14d57c6941
+SHA512: ed452035ec6008e9aeb722bec627bd7ae1f72d6f27b1f3a4342c805d7106eda74c60c80ec0c992689d2c94ecc5ca0bb592f12b657ff9876f85585cbedd5902a4
+Description: Psalms video assets for psalm 066 (jpg/mp3/mp4)
+ Cover image, music track, and/or background video used by
+ ScripturesStudio to produce psalm 066's video.
+
+Package: scripturesstudio-assets-067
+Architecture: all
+Version: 1.0
+Priority: optional
+Section: misc
+Source: scripturesstudio-assets
+Maintainer: Reuben Institute <reubeninstitute@gmail.com>
+Installed-Size: 6536
+Filename: ./scripturesstudio-assets-067_1.0_all.deb
+Size: 6688174
+MD5sum: 85fc4b85630d42a995dd4e2def96dec4
+SHA1: b87b370f4e81198ac23614c3f0b8986788769aed
+SHA256: 3d5f23ec875064ab4891420449190d3dd30efa5ba59b7280f221f8071a56d12a
+SHA512: 10abe746057cab0057510efd5a331cc46afe5596db6b9e70d4bd33b0a1598f12593ed14b2cd3d2ca780bd393321bc4b42fc091046631b53fd3b9a1f137020e7e
+Description: Psalms video assets for psalm 067 (jpg/mp3/mp4)
+ Cover image, music track, and/or background video used by
+ ScripturesStudio to produce psalm 067's video.
+
+Package: scripturesstudio-assets-070
+Architecture: all
+Version: 1.0
+Priority: optional
+Section: misc
+Source: scripturesstudio-assets
+Maintainer: Reuben Institute <reubeninstitute@gmail.com>
+Installed-Size: 5235
+Filename: ./scripturesstudio-assets-070_1.0_all.deb
+Size: 5357366
+MD5sum: b90c622bc220adcd3923768d8f1305cc
+SHA1: a87b34f941f691fd248320f4f86831105904acc8
+SHA256: 96612992d8a4e3a290bff40554b8cd119ecc87a10cb8ccecf0883862e1cc1d0b
+SHA512: 1fdceb78af946b95cbba574c4735b347a522a08436bb7d8317456dfc087586cb92af60f6e151b801a421f4cd9a717f315e3523938cdc394640a7af3f04b0c25b
+Description: Psalms video assets for psalm 070 (jpg/mp3/mp4)
+ Cover image, music track, and/or background video used by
+ ScripturesStudio to produce psalm 070's video.
+
+Package: scripturesstudio-assets-074
+Architecture: all
+Version: 1.0
+Priority: optional
+Section: misc
+Source: scripturesstudio-assets
+Maintainer: Reuben Institute <reubeninstitute@gmail.com>
+Installed-Size: 4122
+Filename: ./scripturesstudio-assets-074_1.0_all.deb
+Size: 4213442
+MD5sum: ee57161a19c2fde258860c691ce36208
+SHA1: 379bd5834a9dd4f1d33ee6b9f82aed87704642c5
+SHA256: 23f4d52a160973dff4a02033f57cbf9117f39e2ed6ee99ec460e7febe6955283
+SHA512: 899e0873a68614869b8abff310d18866c0493853988d106ef5dcd25f6143228ad0f07fd8413536eeced01a82fcc83554ab06fb2ecd414917595555425ce1ddfd
+Description: Psalms video assets for psalm 074 (mp3)
+ Cover image, music track, and/or background video used by
+ ScripturesStudio to produce psalm 074's video.
+
+Package: scripturesstudio-assets-075
+Architecture: all
+Version: 1.0
+Priority: optional
+Section: misc
+Source: scripturesstudio-assets
+Maintainer: Reuben Institute <reubeninstitute@gmail.com>
+Installed-Size: 10350
+Filename: ./scripturesstudio-assets-075_1.0_all.deb
+Size: 10579228
+MD5sum: f5ffca5acd96c666ece71c6103a8dcdf
+SHA1: 81c1731755ddff85de40fd2a80ce79d198161837
+SHA256: 67685fb7bb7df4402f73a2341be5f088fa82c8b8cc307c59efeae8e3f7549513
+SHA512: 433a5486a954543e326d0ab5fd5eafb0c247f65042fc0fdcf71e0c8fda5868c368e43a48b5431867818a7517031cb7e811c4f69ec0d88ca4ab4174ec31c15b35
+Description: Psalms video assets for psalm 075 (jpg/mp3/mp4)
+ Cover image, music track, and/or background video used by
+ ScripturesStudio to produce psalm 075's video.
+
+Package: scripturesstudio-assets-077
+Architecture: all
+Version: 1.0
+Priority: optional
+Section: misc
+Source: scripturesstudio-assets
+Maintainer: Reuben Institute <reubeninstitute@gmail.com>
+Installed-Size: 4915
+Filename: ./scripturesstudio-assets-077_1.0_all.deb
+Size: 5026668
+MD5sum: 57fafdd556318b738fc7aa935ebd2fc4
+SHA1: ae9a17a85f1924f49c44ee1ee9d4f777682d4bf4
+SHA256: dc93e081d8773cee9ea390b8a652a56eb9aa1b4a66d8294e84c4d48250667145
+SHA512: fbaa0b304eda25e4dfcc6dad85cafd8656574e12498946b696d94cb705adc3603db1d7022b206fb6a90f6f45e0d18212789ac4b6893248203ce4509ae0528fab
+Description: Psalms video assets for psalm 077 (mp3)
+ Cover image, music track, and/or background video used by
+ ScripturesStudio to produce psalm 077's video.
+
+Package: scripturesstudio-assets-080
+Architecture: all
+Version: 1.0
+Priority: optional
+Section: misc
+Source: scripturesstudio-assets
+Maintainer: Reuben Institute <reubeninstitute@gmail.com>
+Installed-Size: 4842
+Filename: ./scripturesstudio-assets-080_1.0_all.deb
+Size: 4952120
+MD5sum: 764953eea957dcf2f3a7211b233f0f4b
+SHA1: e1d55606b59c27b246ee4013b85009606f407d30
+SHA256: 4ddf547aea6cf41b304656c5eb5ffb3ef50051462b563cbc41c2dac14b3b9734
+SHA512: 14dd562379ae07bc0cdc1529b680622b6420f82c727730f576f001fb328ef9c6ea9f3bfa33d8e7f5d371ecab5dcccd97dcdfe3c5b2142dcdf264ee50fa03b0c8
+Description: Psalms video assets for psalm 080 (mp3)
+ Cover image, music track, and/or background video used by
+ ScripturesStudio to produce psalm 080's video.
+
+Package: scripturesstudio-assets-084
+Architecture: all
+Version: 1.0
+Priority: optional
+Section: misc
+Source: scripturesstudio-assets
+Maintainer: Reuben Institute <reubeninstitute@gmail.com>
+Installed-Size: 9523
+Filename: ./scripturesstudio-assets-084_1.0_all.deb
+Size: 9748540
+MD5sum: a3e2e6d7d17b39edbf6b48a064f4e553
+SHA1: dec631e2819cc1b29365ca08295013dbc5ef7d3c
+SHA256: f9be6249b76a38a42d11c714ba29929c67f83f0faabbb1d44d305b17b11076e7
+SHA512: b61f6426f514c66d5a11cecdd253de11927ca6ade184e7e2b17a9f45544575620b74512fd2a4ae75eac4ec41b89da0bceba04d3899259000e15863621e91b578
+Description: Psalms video assets for psalm 084 (jpg/mp3/mp4)
+ Cover image, music track, and/or background video used by
+ ScripturesStudio to produce psalm 084's video.
+
+Package: scripturesstudio-assets-086
+Architecture: all
+Version: 1.0
+Priority: optional
+Section: misc
+Source: scripturesstudio-assets
+Maintainer: Reuben Institute <reubeninstitute@gmail.com>
+Installed-Size: 5811
+Filename: ./scripturesstudio-assets-086_1.0_all.deb
+Size: 5944526
+MD5sum: ddb25beec952df88c4c6dc02a33af597
+SHA1: 3040111ed0a19ecd5f892f16d1339f08d95d5722
+SHA256: 3233879aad9df798ffde89bb31f1ab77bcf5cdd74d3804fabac4e52d81a524a9
+SHA512: f5ff1684478e2191861a472c90772bebf56fb4abef271850c946288a3b4facd86c3590fdbd269d2297add7286710f11c63849203fee4508359fedaedf95bb861
+Description: Psalms video assets for psalm 086 (mp3)
+ Cover image, music track, and/or background video used by
+ ScripturesStudio to produce psalm 086's video.
+
+Package: scripturesstudio-assets-090
+Architecture: all
+Version: 1.0
+Priority: optional
+Section: misc
+Source: scripturesstudio-assets
+Maintainer: Reuben Institute <reubeninstitute@gmail.com>
+Installed-Size: 6861
+Filename: ./scripturesstudio-assets-090_1.0_all.deb
+Size: 7022142
+MD5sum: 93240032f59df7b218717a325ee6b2ea
+SHA1: 8fec3d37066595d3a718e36153913a55ccb7714f
+SHA256: 8ebd48a6c48bfdf4e73e397c033c3c09832042fe12dffe739c7d7c7e73b75fc3
+SHA512: 0f42ad9ef57d1d36e0fa33089a039bd5059e954599761d834d64dab44681f1a304492511620d83582168af430388abb06c8ab1894374ea14abd1d0186d7974db
+Description: Psalms video assets for psalm 090 (jpg/mp3/mp4)
+ Cover image, music track, and/or background video used by
+ ScripturesStudio to produce psalm 090's video.
+
+Package: scripturesstudio-assets-091
+Architecture: all
+Version: 1.0
+Priority: optional
+Section: misc
+Source: scripturesstudio-assets
+Maintainer: Reuben Institute <reubeninstitute@gmail.com>
+Installed-Size: 5164
+Filename: ./scripturesstudio-assets-091_1.0_all.deb
+Size: 5285024
+MD5sum: 5c1b429e9642512fe4dd4b5ccd3c9919
+SHA1: c34e9f1008f2bdb79abc35feaa99b0daaf517ed7
+SHA256: 5358be0d2952f53ac044b3117294d7c10ca7cd97c0c32de4876ccab5423285a4
+SHA512: 769879ac548716b4e0c1a3f6fdfcea13f530c867f2fde611d04a93385b77f6cfe17da5459f4a912a64cbaa535953b740818612a6bead41bb65f6c905d3387fba
+Description: Psalms video assets for psalm 091 (mp3)
+ Cover image, music track, and/or background video used by
+ ScripturesStudio to produce psalm 091's video.
+
+Package: scripturesstudio-assets-093
+Architecture: all
+Version: 1.0
+Priority: optional
+Section: misc
+Source: scripturesstudio-assets
+Maintainer: Reuben Institute <reubeninstitute@gmail.com>
+Installed-Size: 9514
+Filename: ./scripturesstudio-assets-093_1.0_all.deb
+Size: 9730244
+MD5sum: 5e5de0cd70084870a41cbfa0acc16784
+SHA1: 82f65a47f8a66026c7422073f5fa9f48f45246c1
+SHA256: 9167067b4c78144efb9760187237086438d2c156f296900e7a44a43a46649c59
+SHA512: 31dba8b13244c6f07890caf737e724f20e639ccdcb801d236733649c2e15c7aa97a325c9a5d6da2939b3b742364fd2f9a6866217c02cd6e7e873da3f9d52674f
+Description: Psalms video assets for psalm 093 (jpg/mp3/mp4)
+ Cover image, music track, and/or background video used by
+ ScripturesStudio to produce psalm 093's video.
+
+Package: scripturesstudio-assets-099
+Architecture: all
+Version: 1.0
+Priority: optional
+Section: misc
+Source: scripturesstudio-assets
+Maintainer: Reuben Institute <reubeninstitute@gmail.com>
+Installed-Size: 11445
+Filename: ./scripturesstudio-assets-099_1.0_all.deb
+Size: 11704352
+MD5sum: 50dba05fd407c9bfe8823b20821f5a9a
+SHA1: 5338e0559c7033e573aaa27288573c75c23a864e
+SHA256: 9c279cd846584275799b20c82b8936b220413f69a6798bdfe1dcb1d916d28607
+SHA512: 40ae60b07bed22953d8bcca73778ad15d446520b27c4340b8a064d859da2ca7d69f6992dfc45e99b8e3d0ee9226838f4c60806b277272bf8fb4e710385bff15a
+Description: Psalms video assets for psalm 099 (jpg/mp3/mp4)
+ Cover image, music track, and/or background video used by
+ ScripturesStudio to produce psalm 099's video.
+
+Package: scripturesstudio-assets-100
+Architecture: all
+Version: 1.0
+Priority: optional
+Section: misc
+Source: scripturesstudio-assets
+Maintainer: Reuben Institute <reubeninstitute@gmail.com>
+Installed-Size: 6503
+Filename: ./scripturesstudio-assets-100_1.0_all.deb
+Size: 6657716
+MD5sum: b75845f6b378d539428e89b2e106e5ba
+SHA1: 3734d4e760cf5cd37eb5ccc892df87b55496cbc1
+SHA256: a5d2777c6202e78fa153d7098a0e3338b9f11b5d52f133f6b6f2fdbfda5e892a
+SHA512: ce39b21f305220f4d31257c288d68625f02e1b9697e4d0eb5bff4df3315f76e8d27d2dd8c5176372c678cd281a555353e30c4cc40e4046ce780c673679194b0b
+Description: Psalms video assets for psalm 100 (jpg/mp3/mp4)
+ Cover image, music track, and/or background video used by
+ ScripturesStudio to produce psalm 100's video.
+
+Package: scripturesstudio-assets-101
+Architecture: all
+Version: 1.0
+Priority: optional
+Section: misc
+Source: scripturesstudio-assets
+Maintainer: Reuben Institute <reubeninstitute@gmail.com>
+Installed-Size: 12549
+Filename: ./scripturesstudio-assets-101_1.0_all.deb
+Size: 12833212
+MD5sum: 9088c26c6e1dab529ddbe8b26d353f84
+SHA1: c4fc24d848b31ec42b016bbd7f3ab0034e0e7096
+SHA256: 8f7e7640d76844143d10fc1843d42aae178536f124c483ee06a621fa10d3b370
+SHA512: 0502437ca1fbb222d4301e21bd92eed43d2e1daab094a11802e1ea747eca361d3d75fd64a053b80e33af1437562cebb27f8fa7cec9ac9674f1d226435d38a4cc
+Description: Psalms video assets for psalm 101 (jpg/mp3/mp4)
+ Cover image, music track, and/or background video used by
+ ScripturesStudio to produce psalm 101's video.
+
+Package: scripturesstudio-assets-105
+Architecture: all
+Version: 1.0
+Priority: optional
+Section: misc
+Source: scripturesstudio-assets
+Maintainer: Reuben Institute <reubeninstitute@gmail.com>
+Installed-Size: 8777
+Filename: ./scripturesstudio-assets-105_1.0_all.deb
+Size: 8945950
+MD5sum: 9d7167c0414fbd59db29c337d2be900d
+SHA1: 2f0a86f3ab03ee41e0a235a56f7c824af2022a89
+SHA256: bdca423ae3c649aedf033cc72cf2e369110cce49bb96e2d7354e8e3895861437
+SHA512: 1c8283c01af9f0ac6a0a370b79a342540dfd1e7dcb90947fc0cc9ac3792c52625ede251aece5da465fa5f7baaa7ff035b91f5db61345cb1a0e708b998ab28948
+Description: Psalms video assets for psalm 105 (mp3)
+ Cover image, music track, and/or background video used by
+ ScripturesStudio to produce psalm 105's video.
+
+Package: scripturesstudio-assets-117
+Architecture: all
+Version: 1.0
+Priority: optional
+Section: misc
+Source: scripturesstudio-assets
+Maintainer: Reuben Institute <reubeninstitute@gmail.com>
+Installed-Size: 6499
+Filename: ./scripturesstudio-assets-117_1.0_all.deb
+Size: 6643316
+MD5sum: eb10f2b3deedbc6ef086a1037b29ed8e
+SHA1: e6c68d8fe6d81368db4b10502aea34069203784a
+SHA256: d5ac0149a27424db49bdcb27fe65957026a77440da177fc641c5205484b3aae7
+SHA512: 9208d27a540c75265f9f70ad081183f6816d52b7932bb885255ef2e711dcc6d97c534056a3b2e4dc594d3e7b713827af8279fb2b375c549f5136e62eb42144ef
+Description: Psalms video assets for psalm 117 (jpg/mp3/mp4)
+ Cover image, music track, and/or background video used by
+ ScripturesStudio to produce psalm 117's video.
+
+Package: scripturesstudio-assets-125
+Architecture: all
+Version: 1.0
+Priority: optional
+Section: misc
+Source: scripturesstudio-assets
+Maintainer: Reuben Institute <reubeninstitute@gmail.com>
+Installed-Size: 6682
+Filename: ./scripturesstudio-assets-125_1.0_all.deb
+Size: 6839944
+MD5sum: 616942781f64ded1ee0e4eacd0d03e2c
+SHA1: c9c45c0362f90688ae35b3e60165ce8b29a65904
+SHA256: 710fde49dc416d71674cfee6e130c5b15126f9f8b231e8a74945a532f8ccb2fc
+SHA512: c4a10a0a90509111a10092099b3f6efedc5eea6f4f1449e5d7cdf42d8eec6ce9b12c297296eb1d5b97f8557266ea9472e77dec043144b292104c1f8dd515a1e4
+Description: Psalms video assets for psalm 125 (mp3)
+ Cover image, music track, and/or background video used by
+ ScripturesStudio to produce psalm 125's video.
+
+Package: scripturesstudio-assets-129
+Architecture: all
+Version: 1.0
+Priority: optional
+Section: misc
+Source: scripturesstudio-assets
+Maintainer: Reuben Institute <reubeninstitute@gmail.com>
+Installed-Size: 5822
+Filename: ./scripturesstudio-assets-129_1.0_all.deb
+Size: 5956780
+MD5sum: 8780d70fcd41b507a9029e8a8fe8a087
+SHA1: e5e0dec8f568565308c51572641208142a39ac93
+SHA256: 3f4bb8dde574b080fc43c46069237a71cad12c8b31fff519be8a529f1c1772cc
+SHA512: 2d253efbc55ddbed05194ff09e7a25a2b480cd22db82ff4cbaff11edf8987d33f79e4d71fe6cb8df0ac3781bdd04c3cf5bacb4bc819caf458e2455204b8c37b1
+Description: Psalms video assets for psalm 129 (jpg/mp3/mp4)
+ Cover image, music track, and/or background video used by
+ ScripturesStudio to produce psalm 129's video.
+
+Package: scripturesstudio-assets-130
+Architecture: all
+Version: 1.0
+Priority: optional
+Section: misc
+Source: scripturesstudio-assets
+Maintainer: Reuben Institute <reubeninstitute@gmail.com>
+Installed-Size: 9916
+Filename: ./scripturesstudio-assets-130_1.0_all.deb
+Size: 10151216
+MD5sum: 912674f6f162ff4ae86690fc282db08b
+SHA1: 562a400763da053174ecf1643ba9fb875c41eca8
+SHA256: 711469137d50a5af92523d5cd35be5b5178655ce06458986dc9738e1f29984a5
+SHA512: 0723aea48b38a3c7d876518dc3dae33ed92fec2ef673ed15dae9a5fcd72dd2e85746fb82f33c168fd4cfb482f7ea084cd9e4bc247c794f3c3932089d62fdaa45
+Description: Psalms video assets for psalm 130 (jpg/mp3/mp4)
+ Cover image, music track, and/or background video used by
+ ScripturesStudio to produce psalm 130's video.
+
+Package: scripturesstudio-assets-137
+Architecture: all
+Version: 1.0
+Priority: optional
+Section: misc
+Source: scripturesstudio-assets
+Maintainer: Reuben Institute <reubeninstitute@gmail.com>
+Installed-Size: 3745
+Filename: ./scripturesstudio-assets-137_1.0_all.deb
+Size: 3817856
+MD5sum: 7647bdd43e0e6367b5f16b0f975a44b1
+SHA1: b292e942c05d9a3871e182cf1a41737e5eac3d1f
+SHA256: 967a244ab5f9320a2f7f5528df941f0d34c9366f2c742b3626910b292a58db4d
+SHA512: 28a774df7e836d01e48595154a2427479849a9fa7287ef6c6f582dfc6c95ecb68d94811675e8cbef18dc48340860f345ba816aa398dd16bec2c9af693187e1d9
+Description: Psalms video assets for psalm 137 (mp3)
+ Cover image, music track, and/or background video used by
+ ScripturesStudio to produce psalm 137's video.
+
+Package: scripturesstudio-assets-150
+Architecture: all
+Version: 1.0
+Priority: optional
+Section: misc
+Source: scripturesstudio-assets
+Maintainer: Reuben Institute <reubeninstitute@gmail.com>
+Installed-Size: 4338
+Filename: ./scripturesstudio-assets-150_1.0_all.deb
+Size: 4426926
+MD5sum: 500fcf371975d56e91ea66fc6177320f
+SHA1: 529cf611a20c74adb299fe5b977f53d95936a683
+SHA256: c6c60b713f8a063c664e42fd011f90fdac936484550fa8bb45c107d94592193a
+SHA512: 11886d7040a1f1f3f3d82c73d062ba2e820d22554b299cf518f245cb0c262208e4d1b6474b49e5cd6760f00ebc30937b40018f6feba422a3a48147b081e48be3
+Description: Psalms video assets for psalm 150 (mp3)
+ Cover image, music track, and/or background video used by
+ ScripturesStudio to produce psalm 150's video.
+
+Package: scripturesstudio-assets-common
+Architecture: all
+Version: 1.0
+Priority: optional
+Section: misc
+Source: scripturesstudio-assets
+Maintainer: Reuben Institute <reubeninstitute@gmail.com>
+Installed-Size: 25616
+Filename: ./scripturesstudio-assets-common_1.0_all.deb
+Size: 26213866
+MD5sum: 5962471c1e2ca67997a433a5435af87d
+SHA1: c264f1606e0ddb8abaa44b6279b430062f8df315
+SHA256: 54f3376591d4ad12ac4c5c3f8f241d4389e6e0cf223313d6c27816b8af1e75d2
+SHA512: a19356fcbd0c3a9f88f90f0b081a700d0609919abb48536af44570e6f9ecd24b6f2e75b1da620f4e0714cb365e7756935f8b7bb74fc0f620fc440168d0319cbe
+Description: Shared background assets for ScripturesStudio
+ Background fog videos and cover images not tied to a specific
+ psalm chapter.
+
+Package: scripturesstudio-assets
+Architecture: all
+Version: 1.0
+Priority: optional
+Section: misc
+Source: scripturesstudio-assets
+Maintainer: Reuben Institute <reubeninstitute@gmail.com>
+Depends: scripturesstudio-assets-common (= 1.0),
+ scripturesstudio-assets-001 (= 1.0),
+ scripturesstudio-assets-002 (= 1.0),
+ scripturesstudio-assets-003 (= 1.0),
+ scripturesstudio-assets-004 (= 1.0),
+ scripturesstudio-assets-005 (= 1.0),
+ scripturesstudio-assets-006 (= 1.0),
+ scripturesstudio-assets-007 (= 1.0),
+ scripturesstudio-assets-008 (= 1.0),
+ scripturesstudio-assets-010 (= 1.0),
+ scripturesstudio-assets-016 (= 1.0),
+ scripturesstudio-assets-032 (= 1.0),
+ scripturesstudio-assets-035 (= 1.0),
+ scripturesstudio-assets-041 (= 1.0),
+ scripturesstudio-assets-042 (= 1.0),
+ scripturesstudio-assets-044 (= 1.0),
+ scripturesstudio-assets-046 (= 1.0),
+ scripturesstudio-assets-047 (= 1.0),
+ scripturesstudio-assets-048 (= 1.0),
+ scripturesstudio-assets-050 (= 1.0),
+ scripturesstudio-assets-051 (= 1.0),
+ scripturesstudio-assets-052 (= 1.0),
+ scripturesstudio-assets-053 (= 1.0),
+ scripturesstudio-assets-054 (= 1.0),
+ scripturesstudio-assets-056 (= 1.0),
+ scripturesstudio-assets-059 (= 1.0),
+ scripturesstudio-assets-060 (= 1.0),
+ scripturesstudio-assets-061 (= 1.0),
+ scripturesstudio-assets-062 (= 1.0),
+ scripturesstudio-assets-066 (= 1.0),
+ scripturesstudio-assets-067 (= 1.0),
+ scripturesstudio-assets-070 (= 1.0),
+ scripturesstudio-assets-074 (= 1.0),
+ scripturesstudio-assets-075 (= 1.0),
+ scripturesstudio-assets-077 (= 1.0),
+ scripturesstudio-assets-080 (= 1.0),
+ scripturesstudio-assets-084 (= 1.0),
+ scripturesstudio-assets-086 (= 1.0),
+ scripturesstudio-assets-090 (= 1.0),
+ scripturesstudio-assets-091 (= 1.0),
+ scripturesstudio-assets-093 (= 1.0),
+ scripturesstudio-assets-099 (= 1.0),
+ scripturesstudio-assets-100 (= 1.0),
+ scripturesstudio-assets-101 (= 1.0),
+ scripturesstudio-assets-105 (= 1.0),
+ scripturesstudio-assets-117 (= 1.0),
+ scripturesstudio-assets-125 (= 1.0),
+ scripturesstudio-assets-129 (= 1.0),
+ scripturesstudio-assets-130 (= 1.0),
+ scripturesstudio-assets-137 (= 1.0),
+ scripturesstudio-assets-150 (= 1.0)
+Filename: ./scripturesstudio-assets_1.0_all.deb
+Size: 1230
+MD5sum: 4b089cdfdfd4569d41ed199b96ec4500
+SHA1: 76f729d52fe319aa6b2053cc8250892c3a884016
+SHA256: bb835ba4c8c37c373313affb10e927d01d0d4d50822bed2891411945a8d4570a
+SHA512: 7b76e35cad059a25a79b4e9fa45fb3cd14e83270067c7e3898f31a4cf90d09ce1af3f643c1543fb1482d6468f9045f4c0929114a8a23d84311a53a88e949e368
+Description: Complete video/audio/image assets for ScripturesStudio
+ Depends on every per-chapter psalm asset package (plus shared
+ backgrounds), pinned to its exact built version.
+
 Package: styledscriptures-data
 Architecture: all
 Version: 0.18
