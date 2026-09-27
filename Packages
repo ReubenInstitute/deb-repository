@@ -78,3 +78,72 @@ Description: Local media utilities and ElevenLabs API wrapper
  elevenlabs package itself is not a hard dependency — Services imports
  it lazily per function.
 
+Package: python3-styledscriptures
+Architecture: all
+Version: 0.18
+Priority: optional
+Section: python
+Source: styledscriptures
+Maintainer: Reuben Institute <reubeninstitute@gmail.com>
+Installed-Size: 34
+Depends: python3, python3-hebrew, python3-pandas
+Filename: ./python3-styledscriptures_0.18_all.deb
+Size: 7368
+MD5sum: 8564a208b5231c4a30f4eb062ddc4833
+SHA1: 83a7db5d8b54a22571c0e072d405eafd10a7af86
+SHA256: 997efefe0f870f35de519523b3f1bb2bfeffc267bb4f9de8b175f76f965b9694
+SHA512: bdc2d52e6580d26693223b930b8aa0eae68e5d8e3725d2faa3ab7a5feabaa0c75d01cc76197a5bdfa7bc5dd0781fb26704f8c456d0355b3a8c9fa21f858586bf
+Description: Classes for Reuben Institute's Psalms and Parashot text
+ Text, Psalms, and Parashot classes that present Reuben Institute's
+ own typesetting of the Psalms (as poetry) and Parashot (as narrative
+ prose), with print-quality typography (curly single/double quotes,
+ proper punctuation) — the same text across print, web app, and
+ social media video.
+
+Package: styledscriptures-data
+Architecture: all
+Version: 0.18
+Priority: optional
+Section: python
+Source: styledscriptures
+Maintainer: Reuben Institute <reubeninstitute@gmail.com>
+Installed-Size: 1871
+Depends: python3
+Filename: ./styledscriptures-data_0.18_all.deb
+Size: 354360
+MD5sum: b493505bfbeb9763167869e11e1eb8b5
+SHA1: 186636ea065e2c8d47376daf71480a83f7c76f0e
+SHA256: e1cae9b0e5e6a94f2d1e67826a4457f248f8d2c0e6ffc307242bdcf76be51626
+SHA512: e013695953e40da0b05402faf56f2b7bbb32361b6a1049f23d30dc2f4d601f957a3d4fda31b954ad1b14bce5ee8b54c115f22c5299c9905c604539ff25aeb8c9
+Description: Reuben Institute's Psalms and Parashot text
+ Markdown text and CSV metadata for Reuben Institute's own
+ typesetting of the Psalms (as poetry) and Parashot (as narrative
+ prose) — the text behind the print booklets, web app, and video
+ series.
+ .
+ Fixed reference data (parashah verse ranges) lives under
+ /usr/share/styledscriptures. Editable content (episode tracking,
+ psalm/parashah text) lives under /var/lib/styledscriptures and is
+ meant to be edited in place (e.g. via MediaStudio); it is
+ overwritten on package upgrade, so edits must be committed back to
+ the source repo first.
+
+Package: styledscriptures-web
+Architecture: all
+Version: 0.18
+Priority: optional
+Section: python
+Source: styledscriptures
+Maintainer: Reuben Institute <reubeninstitute@gmail.com>
+Installed-Size: 12
+Depends: python3, python3-flask, python3-styledscriptures, styledscriptures-data, fonts
+Filename: ./styledscriptures-web_0.18_all.deb
+Size: 2024
+MD5sum: 2ba2a076a0eb3273fde00f407ec9ce53
+SHA1: 3fe78c7b6195bc3dd1db90feddb76e275d5f5a40
+SHA256: fc89d89f508a46f7835a28729e8ad95f6b8417c0cbea98e9b1914c940b37dfa4
+SHA512: 9cf9446010b9dc050d405147ab14d7ed9be90db9659c10780f0bcd6a34e9dc067dec8bb83a7cd5313c7b2dd4058dc8b50a43e3b354b057164b54e5b063fb03e7
+Description: Web viewer for Reuben Institute's styled scripture text
+ Flask app for browsing Reuben Institute's own typesetting of the
+ Psalms and Parashot in the browser.
+
