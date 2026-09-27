@@ -1,22 +1,25 @@
 #!/bin/sh
 # Add/replace .deb packages in this apt repository and regenerate its index.
 #
-# Usage: update-index.sh <deb-file-or-directory> [...]
+# Usage: update-index.sh [deb-file-or-directory] [...]
 #
 # For each .deb given (or found in a given directory), any existing deb
 # in this repo for the same package name is removed, the new one is
 # copied in, and the apt index (Packages, Packages.gz, Release,
 # Release.gpg, InRelease) is regenerated and signed. The repo's .debs
 # are gitignored -- only the regenerated index files get committed.
+#
+# Called with no arguments, it just regenerates the index over
+# whatever's currently in the repo (including nothing at all -- an
+# empty repo is a valid repo).
 set -eu
+
+# Signing key from the reubeninstitute-deb-signing-key package (installing
+# it imports this key into root's keyring with ultimate trust).
+KEYID=656717166D79B2E3C27C3EFF807CCC20F26CFF08
 
 cd "$(dirname "$0")"
 REPO="$(pwd)"
-
-if [ "$#" -eq 0 ]; then
-	echo "Usage: $0 <deb-file-or-directory> [...]" >&2
-	exit 1
-fi
 
 NEW_DEBS=""
 for arg in "$@"; do
@@ -32,11 +35,6 @@ for arg in "$@"; do
 	fi
 done
 
-if [ -z "$NEW_DEBS" ]; then
-	echo "no .deb files found" >&2
-	exit 1
-fi
-
 for deb in $NEW_DEBS; do
 	pkg="$(basename "$deb" | sed -E 's/_[^_]+_[^_]+\.deb$//')"
 	rm -f "$REPO/${pkg}"_*_*.deb
@@ -49,8 +47,8 @@ apt-ftparchive packages . > Packages
 gzip -k9f Packages
 apt-ftparchive -c apt-ftparchive.conf release . > Release
 rm -f Release.gpg InRelease
-gpg --clearsign -o InRelease Release
-gpg -abs -o Release.gpg Release
+gpg --local-user "$KEYID" --clearsign -o InRelease Release
+gpg --local-user "$KEYID" -abs -o Release.gpg Release
 
 git add Packages Packages.gz Release Release.gpg InRelease
 echo
