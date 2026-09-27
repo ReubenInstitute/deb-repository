@@ -78,6 +78,26 @@ Description: Local media utilities and ElevenLabs API wrapper
  elevenlabs package itself is not a hard dependency — Services imports
  it lazily per function.
 
+Package: python3-scriptures
+Architecture: all
+Version: 0.29
+Priority: optional
+Section: python
+Source: scriptures
+Maintainer: Reuben Institute <reubeninstitute@gmail.com>
+Installed-Size: 39
+Depends: python3, python3-pandas, python3-hebrew, scriptures-data
+Filename: ./python3-scriptures_0.29_all.deb
+Size: 6464
+MD5sum: fafdfb6b24da1b9e7515f9fd040b1e53
+SHA1: b7c3162d34a768b16509dbf72b18149b361673d5
+SHA256: eb89651a4254cca0313dac0294571ffaf0b1ae0634721921782067720091e1c0
+SHA512: 9a195c831f40e82028071a2f0002861557e04ac362788b3608b111cc60ac8a04bb2e7cec68a52a78e3ffaa3f57c57d133d30058ea157f9e43c4f6dd7741a033a
+Description: Hebrew scripture text classes (Bible, Mishnah, Talmud, Zohar)
+ Provides Scriptures, Bible, Mishnah, TalmudBavli, TalmudYerushalmi,
+ Zohar, ZoharChadash and ZoharTikkunim classes for Reuben Institute's
+ Hebrew text corpus, with a bundled web viewer available separately.
+
 Package: python3-styledscriptures
 Architecture: all
 Version: 0.18
@@ -99,6 +119,43 @@ Description: Classes for Reuben Institute's Psalms and Parashot text
  prose), with print-quality typography (curly single/double quotes,
  proper punctuation) — the same text across print, web app, and
  social media video.
+
+Package: scriptures-data
+Architecture: all
+Version: 0.29
+Priority: optional
+Section: python
+Source: scriptures
+Maintainer: Reuben Institute <reubeninstitute@gmail.com>
+Installed-Size: 63803
+Depends: python3
+Filename: ./scriptures-data_0.29_all.deb
+Size: 8217484
+MD5sum: a80809d65401cdafde32906262f41a9a
+SHA1: dd783d8daf1fe883e01ab17478062eb11417fc7b
+SHA256: 8cae3f38febeec25ee29b2c3e4c9ae919d4b3b5e9301de44550551d0e47bf34f
+SHA512: 83640fad761120baa30d08d5da4726f7b99bcc4cf28cc2267cd5b7556d5db4e75c18e8a835c48c472b4416c0639be4b771aa10bf035556486c2a806b53273d94
+Description: Hebrew scripture text data (Bible, Mishnah, Talmud, Zohar)
+ Provides the JSON text database for Reuben Institute's Hebrew text
+ corpus, sourced from Sefaria (https://sefaria.org).
+
+Package: scriptures-web
+Architecture: all
+Version: 0.29
+Priority: optional
+Section: python
+Source: scriptures
+Maintainer: Reuben Institute <reubeninstitute@gmail.com>
+Installed-Size: 22
+Depends: python3, python3-flask, python3-scriptures, fonts
+Filename: ./scriptures-web_0.29_all.deb
+Size: 4012
+MD5sum: f297ef4d6a2f887cbc9908beb2c8c52e
+SHA1: babdf1c79bb627e170135f6270d208354f629ff4
+SHA256: ba991fe312f174e7b73886bc96b3f375b591f4f1ada858916742c3ff05abf3de
+SHA512: 9ac7c5d828277132a432c7d730e25ea4b58b7c38f87314071b0c2cdcc125091653f1b2f1b6bd91b26ce9fb6b3c5b637836422b5bccef33e76f44de463cad24e3
+Description: Web viewer for Reuben Institute's scripture corpus
+ Flask app serving the Hebrew scripture texts in the browser.
 
 Package: styledscriptures-data
 Architecture: all
