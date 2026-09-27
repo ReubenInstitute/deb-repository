@@ -1,3 +1,41 @@
+Package: fonts
+Architecture: all
+Version: 0.10
+Priority: optional
+Section: fonts
+Maintainer: Reuben Institute <reubeninstitute@gmail.com>
+Installed-Size: 15952
+Filename: ./fonts_0.10_all.deb
+Size: 4435672
+MD5sum: 9b27e176c302a1acbe82f82d62c94277
+SHA1: b857b8c43c733c0fc441379ce76b18a95acd3b1d
+SHA256: bc4ff092b162f6a185fca000153a6fcd11bc4a15e0801694dbfe47100e1719d8
+SHA512: 62714861a03495d48370d3d5b9e0dd5e5b22d4bb4086ccf62ed90955d7ccd64d55c1de771c9dba68afca48d2c31e14e22df11ceb9cea3b7d9cfb4900cdc2aea3
+Description: Fonts used by Reuben Institute projects
+ Third-party and custom fonts used by Reuben Institute projects,
+ installed to /usr/share/fonts/reubeninstitute.
+
+Package: python3-ffmpeg
+Architecture: all
+Version: 0.460
+Priority: optional
+Section: python
+Source: ffmpeg-python
+Maintainer: Reuben Institute <reubeninstitute@gmail.com>
+Installed-Size: 89
+Depends: python3:any
+Filename: ./python3-ffmpeg_0.460_all.deb
+Size: 18376
+MD5sum: 7557ebf5041cf752a20a24d958d38a83
+SHA1: 37676644c02794a2c320a804e5e43f52f8abe50b
+SHA256: cf5b6281f839a77b0ce28534d43052ff98fb0e82302b777d946b3a2be4aa960a
+SHA512: 63a0bf9bac7f22792265b055840f3a21ed8de61203bb412591439e6b9bf6fefa95e0158f8ceafe0bf3fa382da57d342453cb49b2fd5a12c32191c4b02cf56268
+Description: Python bindings for FFmpeg
+ Python bindings for FFmpeg, with support for complex filter graphs.
+ Reuben Institute's fork of kkroening/ffmpeg-python with the
+ future/past.builtins Python 2 compatibility shims removed, since
+ only Python 3 is supported here.
+
 Package: python3-hebrew
 Architecture: all
 Version: 1.14
