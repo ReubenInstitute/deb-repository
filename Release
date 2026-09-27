@@ -1,23 +1,23 @@
 Architectures: all arm64 amd64
 Codename: stable
 Components: main
-Date: Sun, 27 Sep 2026 02:01:46 +0000
+Date: Sun, 27 Sep 2026 09:59:57 +0000
 Label: Reuben Institute
 Origin: Reuben Institute
 Suite: stable
 MD5Sum:
- f6568c1548593b49c02f77ebf577d6ca          1016616 Packages
- a5ccf0ec5662483492d5d2f95ae27d61           243400 Packages.gz
- 383dd347c289de03afefc9c8cc576dc9              166 Release
+ ced99a360df03ec15ef27739666de318              763 Packages
+ 76f922c249c13c71f7d3ed9cfc872e5e              514 Packages.gz
+ 21a59178ca0372439dea6c632f7ff7f5              166 Release
 SHA1:
- 2539a012ebff74451f1807f7dbe133143043e644          1016616 Packages
- 20ae42d6b4163d28dc4c2e5a78a0c0ee5a3f1dde           243400 Packages.gz
- 873fec0582dba76e604db351760143022e27930f              166 Release
+ f6f8d4190eb188c5e8f4f97db709c030b7bbac1e              763 Packages
+ ebf9e18e3372ebb4f70ddf309ea3d384da77db20              514 Packages.gz
+ 52e8f2cda7eeb997dc9f3383041da4c430be5d15              166 Release
 SHA256:
- 287e35e04ee134984789a8e6e628b67239e1c5b63df518faafaba45a69110711          1016616 Packages
- 6b1800d9f08aab539b0bd0ef75425ecf5e0fecff35a743072704c90beb5e0811           243400 Packages.gz
- 1456358ff8bfe9e913d258fbc5fc9f45b6b1c2a240d57f65cbb5b720ee29699e              166 Release
+ c425d681ab9b6e5c2eacd1de0ebed17f32528b1e865d3b951e2708a1e3583c64              763 Packages
+ 1f753dc0d71676788bc09f1a1c388464dfbf23c2a703e12dd71e115f448cba64              514 Packages.gz
+ 6ffdda177e6940016c7d027e25e82ed2d7ffd122c4dc527c3da7ad488d247eee              166 Release
 SHA512:
- c15e5361c7186a58d18e762519db93ba242647fcf411b816ee556aef349822e77cf553da1dea523593eddec00e95867d6e667b70fdedb3056252626b78a90e7c          1016616 Packages
- 6e99369c0485cf8c8d0d4b111232ee0272c2a5f71860bbd6d9eda6bb215de76329295e33adaa144953fb3e3ec746945614a5beb9995cee97be2186ea745b960c           243400 Packages.gz
- 40d0c94512f3c727da72836c1b06f3dfb2dba70221d453cc18f9025e9943950b12df56a7f0330fdba660152405274210ef3a5e992f14b675d898bab60f1b4a50              166 Release
+ f04a795ffc0e51c2a684d1fc7b880159e31c29315f878e95faf5a21a432abae253f04c567563e7256b966caf427875b38503b972aaf8b148030748dc416bdca6              763 Packages
+ 1d2ec74dca0f974d1e267ad4344da3ae71d994d503c5d6fe4e57c589c144b9361e99e46c2fba77b28c0010993ff35b0476b0f07c8c8dbf34a4eae978869efd8e              514 Packages.gz
+ d0ed67ad9303331fcb50bf79a4e67052cf07d8a99162f7d8878293589a858ed7dd745f6cd13a2ee2a38a939b470317c750d3c5eb4db4828b489dc22aa8880f10              166 Release
