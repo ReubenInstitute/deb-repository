@@ -1,23 +1,23 @@
 Architectures: all arm64 amd64
 Codename: stable
 Components: main
-Date: Sun, 27 Sep 2026 10:03:17 +0000
+Date: Sun, 27 Sep 2026 10:03:34 +0000
 Label: Reuben Institute
 Origin: Reuben Institute
 Suite: stable
 MD5Sum:
- 77e876ee91588ebd093d1ab16bc6a158             2266 Packages
- a880c4dca850134cf8788a32c51d6be9             1139 Packages.gz
- 80a477aaebd5bd731e496995988f8bb5              166 Release
+ 1c51ec34821e6e955b5b55f385981ca5             3252 Packages
+ 4e76e996295235cf5da3b8f4936df19b             1571 Packages.gz
+ 587a0430e9c47db57afe7d11966e6563              166 Release
 SHA1:
- e5c9609e09a98000d1a9b134a3bf48b9e4b05cda             2266 Packages
- b51e7bc2bfebbeb824f67eef10949e9ebbc06cc4             1139 Packages.gz
- 8fd22e9bd125a1770401c028104ae91cc0200f72              166 Release
+ 8247300354ba7f2f09008df5873f87c230e07beb             3252 Packages
+ d3a4d9b5f552dfe31919bad9e48b6d9aee3b4369             1571 Packages.gz
+ 05f4d44d9eb3df9a20bb7669dace468d24cbc241              166 Release
 SHA256:
- 421b39769e571f759c2b7a03a020b2cd32f8445d6879c9dd8e1772aae34eb50d             2266 Packages
- bcbdae5f073edc1dff6a6f592c29a16b77bbe466f8c444580b7fefcf9e999cf0             1139 Packages.gz
- e6ace85f3ac0cb40a3ab471d7c31b58a65a1f09fad983b6e5f337ec2dd6e9c42              166 Release
+ 631543d2a74fcca2d879c9138f5332843184c4f87932becac06a811f2e540d2a             3252 Packages
+ 4dd8d988a22b64e0d98cb4bfd1d57641bbed3ef88e3a290aa01b5fce96da0a4e             1571 Packages.gz
+ e775dfcf4d94644ab25c54ea3131b4684454b7667a37afb63e0981e231f14e69              166 Release
 SHA512:
- ccb6dd42be91b16ad8fdbda4abd7efde838952cefb994ebbd58ba8037b9a24912304e7d1c5e79be93b4b23f65f37ee341d37fb76e111340282ded22572488a09             2266 Packages
- 91c423db5295e3a3cd40a470d0d4fd0f0704f30ad5922f24184a9a51d89ee98db06bb72c15e1d736cec00b8561c8a5f4f24e5be5504a36d9c076580aac322ec9             1139 Packages.gz
- b988f115197f986fb217de12fbb949078a18cb7e82b21efb3fd975bcc4a98b788bcb134bb152f680b6637b58d01885b2d13ee3fd8ef16e00091d5dc024b63f84              166 Release
+ ebdd31422418cf3787acd8062fefcff0884fe5ae5c4bd2a73d154009db8e0686bdcc83a3fd86edc0822d584ceac485a135836a2dff88d6680753bd0eaa5be27a             3252 Packages
+ 84de8a8ee308d0856fb3faa0633902eb9155c5185347e8015fb6960e2799c2fb2ba0afa0fbbd628ffb80aa7d5a5c7e75ad0143ef505d34c65bc61af3ff0d68f3             1571 Packages.gz
+ 0ec5dd197aa96ad54a87d2605e4b791bc835649f0ad8398edd4c5f3f44252ca0d4effde31320c368f1e7ac1fa0a2deb7e60a9a662253ed6c7768746344a79980              166 Release

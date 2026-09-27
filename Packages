@@ -56,3 +56,25 @@ Description: Hebrew text and numeral utilities
  constants, transliteration helpers, and Hebrew numeral (gematria)
  conversion.
 
+Package: python3-mediatools
+Architecture: all
+Version: 0.6
+Priority: optional
+Section: python
+Source: mediatools
+Maintainer: Reuben Institute <reubeninstitute@gmail.com>
+Installed-Size: 24
+Depends: python3-ffmpeg, python3-mutagen, python3-pil, python3:any, ffmpeg
+Filename: ./python3-mediatools_0.6_all.deb
+Size: 4820
+MD5sum: ea5831f9200a80d7889f4e0b5f573695
+SHA1: 79fe55f04cae8a2ce6b68b7cd261cd00931a7f93
+SHA256: 30bc69079fe878db16ce40d3423cbaa520aca2b3f64b2218eb8086ab2efbf5f2
+SHA512: 33e3d1057b8f3dbedd301d6df6e03a0f971520f1d4b95c72200d3124278323ef7179752cc695224ea8b95a8465f26717ee639b3cbbc832fbfffe8ae30c171f5c
+Description: Local media utilities and ElevenLabs API wrapper
+ Provides Media (ffmpeg/mutagen/PIL-based tagging, cover art, scaling,
+ probing) and Services (ElevenLabs API wrapper: TTS, speech-to-speech,
+ forced/word alignment) for Reuben Institute's media pipeline. The
+ elevenlabs package itself is not a hard dependency — Services imports
+ it lazily per function.
+
